@@ -10,3 +10,4 @@ _cudacache/
 *.avi
 *.mp4
 
+train/*

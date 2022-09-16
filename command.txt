@@ -1,0 +1,1 @@
+python src\train.py --data C:\Users\bartek\datasets\fronts48x48 --kimg 10000 --resume C:\Users\bartek\GitHub\stylegan2ada\train\003-fronts48x48-48x48-auto-apa-gf_bnc\snapshot-48x48-15600.pkl --snap 100
